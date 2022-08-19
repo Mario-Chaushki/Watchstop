@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageId>MarioChaushki.Watchstop</PackageId>
+        <Version>0.0.3-alpha</Version>
+        <Authors>Mario Chaushki</Authors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>0.0.4-alpha</PackageVersion>
+        <Title>Watchstop</Title>
     </PropertyGroup>
-
-    <ItemGroup>
-      <Content Include="bin\Release\net6.0\Watchstop.dll" />
-    </ItemGroup>
-
 </Project>
